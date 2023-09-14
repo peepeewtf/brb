@@ -1,0 +1,22 @@
+{
+  "CONTRACT_ADDRESS": "0x06b1cf95a960fA0Bea2e83cD4DAd24Fb18D9FDB9",
+  "TOKEN_ADDRESS": "0x63CFA06Dc9E0e4a39549f227a14E19B9e53bF56F",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x06b1cf95a960fA0Bea2e83cD4DAd24Fb18D9FDB9",
+  "NETWORK": {
+    "NAME": "goerli",
+    "SYMBOL": "BRC",
+    "ID": 5
+  },
+  "NFT_NAME": "BitMiner",
+  "SYMBOL": "BitMiner",
+  "MAX_SUPPLY": 10000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 210000,
+  "MAX_PER_TX": 20,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "Telegram": "https://",
+  "Discord": "https://",
+  "Twitter": "https://",
+  "SHOW_BACKGROUND": true
+}
